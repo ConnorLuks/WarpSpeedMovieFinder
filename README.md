@@ -3,8 +3,8 @@
 ## Description
 WarpSpeed MovieFinder is a web application that integrates with the TMDB API to provide users with a tailored interface for exploring and managing their favorite movies. The project is organized into several key components, including a front-end user interface, back-end API management, and database interaction.
 
-## Features
-
+## Features  
+ 
 - **TMDB API Integration**: Seamlessly interacts with TMDB's API to fetch and display content.
 - **Custom User Interface**: Provides a user-friendly interface for browsing and selecting movies of the users choice.
 - **Database Management**: Utilizes a backend database for storing user data and preferences.
